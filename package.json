@@ -1,0 +1,8 @@
+{
+    "name": "socialite-auto-upload",
+    "version": "0.1.0",
+    "dependencies": {
+        "async": "~2.5.0",
+        "request": "~2.81.0"
+    }
+}
