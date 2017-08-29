@@ -11,6 +11,6 @@ Avoid manual upload in socialite
 Before running this tool you must install the required package by runing this command:
 `npm install`
 
-## :box: Dependencies
+## :outbox_tray: Dependencies
 
 You must have an altruist server runing to use this tool.
