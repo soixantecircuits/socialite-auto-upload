@@ -8,6 +8,9 @@ Avoid manual upload in socialite
 
 ## :earth_africa: Installation
 
-Before running this tool you should install the following package:
-* [request](https://www.npmjs.com/package/request)
-* [async](https://www.npmjs.com/package/async)
+Before running this tool you must install the required package by runing this command:
+`npm install`
+
+## :outbox_tray: Dependencies
+
+You must have an altruist server runing to use this tool.
